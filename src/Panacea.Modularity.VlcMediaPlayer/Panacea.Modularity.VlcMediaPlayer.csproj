@@ -4,6 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Ioannis Remoundos</Authors>
     <Company>i3inc</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Interfaces to integrate with VLC plugins</Description>
   </PropertyGroup>
 
   <ItemGroup>
